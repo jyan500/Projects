@@ -1,5 +1,6 @@
 # stockChecker
 
+###### NO LONGER FUNCTIONAL AS OF 5/19/2017, API HAS BEEN DISCONTINUED :( #####
 # written by Jansen Yan, 12/20/15
 # for yahoo developers
 
